@@ -16,6 +16,7 @@ with(open("./day5.input") as file):
         i += 1
 
     i += 1
+
     
     res = 0
     while i < len(lines):
